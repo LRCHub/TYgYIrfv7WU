@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "誰にもなれない私だから",
+  "base_artist": "TOGENASHI TOGEARI",
+  "createdAt": "2026-04-05T11:23:06.144221Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "誰にもなれない私だから",
+      "artist": "TOGENASHI TOGEARI",
+      "has_synced": false,
+      "path": "select/01_誰にもなれない私だから_TOGENASHI_TOGEARI.txt"
+    }
+  ]
+}
